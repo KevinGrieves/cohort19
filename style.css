@@ -1,0 +1,18 @@
+/* Global */
+* {font-family:Arial, Helvetica, sans-serif;}
+
+body {
+	background-image: url("paisley.jpg");
+	background-attachment: fixed;
+}
+
+/* Classes */
+.bgdiv {
+	position:absolute;
+	padding: 20px;
+	background-image: url("nightsky.jpg");
+	text-align:center;
+	color: yellow;
+}
+
+
